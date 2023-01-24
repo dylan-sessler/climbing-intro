@@ -1,1 +1,20 @@
-# climbing-intro
+* climbing-intro
+** 1st Climb
+*** Rules
+- What defines a problem
+- Completing a problem
+- Problem grades
+- Approaching the wall
+- Assess if your route will collide with the fall zone of anyone else climbing
+- Don't offer unsolicited beta
+*** Safety
+- Be mindful of fall zones
+- Learn how to fall
+*** Focus
+- Slow, static, hover climbing
+  - How pretty can you climb it?
+** Later lessons
+- How to place and best use feet
+- Hold directionality
+- Climbing with a solid frame (as opposed to hanging)
+- How to safely heel hook, drop knee, and high knee
